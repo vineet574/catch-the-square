@@ -27,3 +27,17 @@ Obstacles: Green squares added as obstacles, reducing score on collision.
 Power-ups: Yellow circles increase speed temporarily when collected.
 
 Code Structure: Organized with multiple classes for modularity and ease of maintenance.
+New features added:
+Multiple obstacles and power-ups, not just one.
+
+Power-up duration timer (speed boost lasts limited time).
+
+Score multiplier power-up.
+
+Pause and resume functionality.
+
+Game Over screen with final score and restart option.
+
+Background color changes smoothly over time.
+
+Sound effects for catching square, hitting obstacle, and power-up activation
